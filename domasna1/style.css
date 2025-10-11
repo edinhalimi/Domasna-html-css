@@ -1,0 +1,63 @@
+p1 {
+    
+    background-color: azure;
+    border: 1px solid ;
+    border-style: dashed;
+    color: blue;
+    
+    
+}
+
+.slika {
+    width: 200px;
+    float: right;
+    background-color: rgb(190, 190, 190);
+    
+
+    
+    
+}
+.card {
+    
+     background-color: rgb(217, 217, 217);
+  border: 1px solid rgba(115, 115, 115, 0.5);
+  border-radius: 15px;
+  box-shadow: 5px 5px 30px 2px darkgray;
+  padding: 16px;
+  margin: 10px;
+  width: 200px;
+ 
+
+}
+.text {
+    color: rgb(179, 15, 15);
+    background-color: rgb(92, 110, 110);
+    border: rgb(92, 110, 110);
+    box-shadow: 5px 5px 5px 5px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    
+    
+}
+.pozadina {
+    background-color: rgb(200, 207, 200);
+}
+
+.li {
+    color: rgb(148, 0, 0);
+    width: 500px;
+    height: 80px;
+    border: 20px;
+    background-color: rgb(161, 127, 127);
+    border-radius: 3px;
+    
+}
+
+
+
+    
+
+
+
